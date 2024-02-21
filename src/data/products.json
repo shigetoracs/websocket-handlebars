@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "NVIDIA GeForce RTX 3060",
+    "description": "Tarjeta gráfica de la serie 3000",
+    "price": 499.99,
+    "stock": 20,
+    "code": "NVGA3060",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+
+  },
+  {
+    "id": 3,
+    "title": "NVIDIA GeForce RTX 4070",
+    "description": "Tarjeta gráfica de la serie 4000",
+    "price": 799.99,
+    "stock": 10,
+    "code": "NVGA4070",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 4,
+    "title": "AMD Radeon RX 4700",
+    "description": "Tarjeta gráfica de la serie 4000",
+    "price": 699.99,
+    "stock": 12,
+    "code": "AMDRX4700",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 5,
+    "title": "NVIDIA GeForce RTX 3080",
+    "description": "Tarjeta gráfica de la serie 3000",
+    "price": 799.99,
+    "stock": 18,
+    "code": "NVGA3080",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 6,
+    "title": "AMD Radeon RX 3800",
+    "description": "Tarjeta gráfica de la serie 3000",
+    "price": 549.99,
+    "stock": 25,
+    "code": "AMDRX3800",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 7,
+    "title": "NVIDIA GeForce RTX 4080",
+    "description": "Tarjeta gráfica de la serie 4000",
+    "price": 999.99,
+    "stock": 8,
+    "code": "NVGA4080",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 8,
+    "title": "AMD Radeon RX 4800",
+    "description": "Tarjeta gráfica de la serie 4000",
+    "price": 899.99,
+    "stock": 10,
+    "code": "AMDRX4800",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 2,
+    "title": "AMD Radeon RX 3700",
+    "description": "Tarjeta gráfica de la serie 3000",
+    "price": 499.99,
+    "stock": 15,
+    "code": "AMDRX3700",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  },
+  {
+    "id": 12,
+    "title": "NVIDIA GeForce RTX 43060",
+    "description": "Tarjeta gráfica de la serie 43000",
+    "price": 7499.99,
+    "stock": 20,
+    "code": "NVGA43060",
+    "thumbnail": [],
+    "img": "https://blogs.unsw.edu.au/nowideas/files/2018/11/error-no-es-fracaso.jpg"
+  }
+]
